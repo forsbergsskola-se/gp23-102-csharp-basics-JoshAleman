@@ -19,5 +19,3 @@ Console.WriteLine("Enter number 2:");
 int number2 = int.Parse(Console.ReadLine());
 float a = (float)number1 / number2;
 Console.WriteLine($"That would be {a}.");
-
-
