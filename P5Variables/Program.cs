@@ -4,7 +4,7 @@ Console.WriteLine(a); // This prints a
 a = "World"; 
 Console.WriteLine(a); // This prints a
 string b;
-b = "World"; 
+b = a; 
 Console.WriteLine(b); // This prints b
 a = "Forsbergs";
 Console.WriteLine(a); // This prints a
