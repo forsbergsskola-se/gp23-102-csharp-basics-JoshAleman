@@ -20,6 +20,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P9_04Remainder", "P9_04Remainder\P9_04Remainder.csproj", "{164670F5-628B-4096-B1E3-322DC40E47BA}"
 =======
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P09_05CircleArea", "P09_05CircleArea\P09_05CircleArea.csproj", "{D3DD9C8F-D3B2-41F4-AC2F-F6ABE5632E0E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -60,5 +62,9 @@ Global
 		{164670F5-628B-4096-B1E3-322DC40E47BA}.Release|Any CPU.Build.0 = Release|Any CPU
 		{AAD216A9-247F-45E1-B61E-76CF742E6F49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{AAD216A9-247F-45E1-B61E-76CF742E6F49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3DD9C8F-D3B2-41F4-AC2F-F6ABE5632E0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3DD9C8F-D3B2-41F4-AC2F-F6ABE5632E0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3DD9C8F-D3B2-41F4-AC2F-F6ABE5632E0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3DD9C8F-D3B2-41F4-AC2F-F6ABE5632E0E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
