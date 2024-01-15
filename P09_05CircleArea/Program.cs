@@ -1,5 +1,5 @@
 ﻿// P09_05CircleArea
 Console.WriteLine("Calculate the area of a circle:");
-string radius = Console.ReadLine();
-float r = float.Parse(radius);
-double pi = 
+float radius = float.Parse (Console.ReadLine());
+float area = MathF.PI * radius*radius ;
+Console.WriteLine($"{area}");
