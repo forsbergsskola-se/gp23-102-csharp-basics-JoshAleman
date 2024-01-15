@@ -24,6 +24,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P09_05CircleArea", "P09_05C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P09_06Negation", "P09_06Negation\P09_06Negation.csproj", "{AABD0396-9AD9-4DD3-B52F-B0AA087E7363}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P09_07Product", "P09_07Product\P09_07Product.csproj", "{1A8A326A-0D2C-409D-B0A4-4DEB1F6E5491}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -72,5 +74,9 @@ Global
 		{AABD0396-9AD9-4DD3-B52F-B0AA087E7363}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AABD0396-9AD9-4DD3-B52F-B0AA087E7363}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AABD0396-9AD9-4DD3-B52F-B0AA087E7363}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A8A326A-0D2C-409D-B0A4-4DEB1F6E5491}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A8A326A-0D2C-409D-B0A4-4DEB1F6E5491}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A8A326A-0D2C-409D-B0A4-4DEB1F6E5491}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A8A326A-0D2C-409D-B0A4-4DEB1F6E5491}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
