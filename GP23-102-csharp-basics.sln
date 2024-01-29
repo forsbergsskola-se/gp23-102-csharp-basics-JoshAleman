@@ -32,6 +32,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P09_09Hypotenuse", "P09_09H
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P09_10SecondsToMinutes", "P09_10SecondsToMinutes\P09_10SecondsToMinutes.csproj", "{3B0A1967-3458-41A3-9631-1B26DB31E125}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game1_Nim", "Game1_Nim\Game1_Nim.csproj", "{F40CDB1C-6493-49C6-994F-5DA65A744620}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -96,5 +98,9 @@ Global
 		{3B0A1967-3458-41A3-9631-1B26DB31E125}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3B0A1967-3458-41A3-9631-1B26DB31E125}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3B0A1967-3458-41A3-9631-1B26DB31E125}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F40CDB1C-6493-49C6-994F-5DA65A744620}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F40CDB1C-6493-49C6-994F-5DA65A744620}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F40CDB1C-6493-49C6-994F-5DA65A744620}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F40CDB1C-6493-49C6-994F-5DA65A744620}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
