@@ -13,7 +13,7 @@ Console.WriteLine("Output:How many matches do you want to draw?");
 int playerDraw;
 
 // We try to convert the user input to an integer
-if (int.TryParse(Console.ReadLine(), out playerDraw))
+if (!int.TryParse(Console.ReadLine(), out playerDraw))
     
 {
     // If the conversion fails, an error message is printed and it is back to the player's turn
